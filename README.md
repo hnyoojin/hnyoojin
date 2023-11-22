@@ -1,6 +1,9 @@
-### Hi there 👋
-### OSS 수업 관련
+### 👀 Yooijn's Github
+<br>
 
+## 🖥 미래에 진행하고자 하는 프로젝트 소개
+### 통합 메모 사이트
+- Notion을 참고한 메모 사이트입니다.
 <!--
 **hnyoojin/hnyoojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
