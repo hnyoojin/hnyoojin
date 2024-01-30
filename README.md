@@ -1,7 +1,22 @@
-## 👀 Yooijn's Github
-### 💡 미래에 진행하고자 하는 프로젝트 소개
-- ### 📝 통합 메모 사이트
-  Notion을 참고한 메모 사이트입니다.
+<h2> 👀 Yooijn's Github</h2><br>
+
+<p>I'm currently studyting HTML and CSS.<br>
+➡️ <a href="https://hnyoojin.github.io/my-web/"><b>check this out!</b></a><br><br>
+</p>
+
+<h3>🌱Skills</h3>
+<ul>
+  <li>Programming Language - C, HTML, CSS, Python, C++</li>
+  <li>Language - Korean, English, Italian</li>
+</ul><p><br></p>
+
+<h3>📫How to reach me</h3>
+  <ul>
+    <li>My instagram ➡️ <a href="https://www.instagram.com/hwngyoojin/"><b>@hwngyoojin</b></a></li>
+    <li>My email ➡️ 0dbwls21@gmail.com</li>
+  </ul>
+
+  
 <!--
 **hnyoojin/hnyoojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +27,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
