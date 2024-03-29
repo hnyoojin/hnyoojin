@@ -1,9 +1,9 @@
 <h2> 👀 Yooijn's Github</h2><br>
 
-<!--<p>I'm currently studyting HTML and CSS.<br>
+<p>I'm currently studyting HTML and CSS.<br>
 ➡️ <a href="https://hnyoojin.github.io/my-web/"><b>My first web!</b></a><br>
 ➡️ <a href="https://hnyoojin.github.io/my-web2/"><b>My Second web project</b></a><br><br>
-</p>--!>
+</p>
 
 <h3>🌱Skills</h3>
 <ul>
