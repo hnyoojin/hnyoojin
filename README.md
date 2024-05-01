@@ -3,7 +3,8 @@
 <p>I'm currently studyting HTML, CSS and JS.<br>
 ➡️ <a href="https://hnyoojin.github.io/my-web/"><b>My first web!</b></a><br>
 ➡️ <a href="https://hnyoojin.github.io/my-web2/"><b>My Second web project</b></a><br>
-➡️ <a href="https://hnyoojin.github.io/GDSC_FE_Beginner/"><b>My Third web project!!</b></a><br><br>
+➡️ <a href="https://hnyoojin.github.io/GDSC_FE_Beginner/"><b>My Third web project!!</b></a><br>
+➡️ <a href="https://hnyoojin.github.io/GDSC_FE_Beginner/"><b>My Third web project!!</b></a><br><br>"><b>'When should I wake up?' Page</b></a><br><br>
 </p>
 
 <h3>🌱Skills</h3>
