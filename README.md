@@ -1,6 +1,6 @@
 <h2> 👀 Yooijn's Github</h2><br>
 
-<p>I'm currently studyting HTML, CSS and JS.<br>
+<p>I'm currently learning JS, React<br>
 <!--➡️ <a href="https://hnyoojin.github.io/my-web/"><b>My first web!</b></a><br>-->
 <!--➡️ <a href="https://hnyoojin.github.io/my-web2/"><b>My Second web project</b></a><br>-->
 ➡️ <a href="https://hnyoojin.github.io/GDSC_FE_Beginner/"><b>My First web project!!</b></a><br>
