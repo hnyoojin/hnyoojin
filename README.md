@@ -3,8 +3,10 @@
 <p>I'm currently learning JS, React<br>
 <!--➡️ <a href="https://hnyoojin.github.io/my-web/"><b>My first web!</b></a><br>-->
 <!--➡️ <a href="https://hnyoojin.github.io/my-web2/"><b>My Second web project</b></a><br>-->
-➡️ <a href="https://hnyoojin.github.io/GDSC_FE_Beginner/"><b>My First web project!!</b></a><br>
+<!--
+  ➡️ <a href="https://hnyoojin.github.io/GDSC_FE_Beginner/"><b>My First web project!!</b></a><br>
 ➡️ <a href="https://hnyoojin.github.io/whenshouldIwakeup/"><b>'When should I wake up?'</b></a><br><br>
+-->
 </p>
 
 <h3>🌱Skills</h3>
