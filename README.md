@@ -12,7 +12,7 @@
 <h3>🌱Skills</h3>
 <ul>
   <li>JavaScript, React, C</li>
-  <li>Language - Korean, English, Italian</li>
+  <li>Korean, English, Italian</li>
 </ul><p><br></p>
 
 <h3>📫How to reach me</h3>
