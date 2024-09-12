@@ -11,7 +11,7 @@
 
 <h3>🌱Skills</h3>
 <ul>
-  <li>Programming Language - C, HTML, Python, JS, C++</li>
+  <li>JavaScript, React, C</li>
   <li>Language - Korean, English, Italian</li>
 </ul><p><br></p>
 
