@@ -13,7 +13,7 @@
 <ul>
   <li>JavaScript, React, C</li>
   <li>Korean, English, Italian</li>
-</ul><p><br></p>
+</ul><p></p>
 
 <h3>📫How to reach me</h3>
     <li>My email ➡️ 0dbwls21@gmail.com</li>
