@@ -1,15 +1,15 @@
 <h2> 👀 Yooijn's Github</h2><br>
 
-<p>I'm currently studying JS, React, React Native<br>
+<!--<p>I'm currently studying JS, React, React Native<br>-->
 <!--➡️ <a href="https://hnyoojin.github.io/my-web/"><b>My first web!</b></a><br>-->
 <!--➡️ <a href="https://hnyoojin.github.io/my-web2/"><b>My Second web project</b></a><br>-->
-<!--
-  ➡️ <a href="https://hnyoojin.github.io/GDSC_FE_Beginner/"><b>My First web project!!</b></a><br>
-➡️ <a href="https://hnyoojin.github.io/whenshouldIwakeup/"><b>'When should I wake up?'</b></a><br><br>
--->
+
+<!--➡️ <a href="https://hnyoojin.github.io/GDSC_FE_Beginner/"><b>My First web project!!</b></a><br>-->
+<!--➡️ <a href="https://hnyoojin.github.io/whenshouldIwakeup/"><b>'When should I wake up?'</b></a><br><br>-->
+
 </p>
 
-<h3>🌱Skills</h3>
+<!--<h3>🌱Skills</h3>
 <ul>
   <li>JavaScript, React, C</li>
   <li>Korean, English, Italian</li>
@@ -20,7 +20,7 @@
     <li>My instagram ➡️ <a href="https://www.instagram.com/hwngyoojin/"><b>@hwngyoojin</b></a></li>
   <ul>
   </ul>
-
+-->
   
 <!--
 **hnyoojin/hnyoojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
